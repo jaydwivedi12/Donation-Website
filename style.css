@@ -60,7 +60,8 @@ li a:hover,.view {
   box-shadow:0 0 .25em rgba(0,0,0,.25);
   box-sizing:border-box;
   left:50%;
-  padding:10vmin;
+  z-index:999;
+  padding:4rem;
   position: fixed;
   text-align:center;
   top:70%;
